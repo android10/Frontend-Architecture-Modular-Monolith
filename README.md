@@ -24,9 +24,19 @@ In order to build and run every project, refer to each specific sub project fold
  - [Android](https://github.com/android10/Typescript-Everywhere/tree/main/android)
  - [iOS](https://github.com/android10/Typescript-Everywhere/tree/main/ios)
 
+## Deployment
+
+ - [ ] TODO
+
 ## General Architecture
 
 TODO
+
+## Resources
+
+ - TODO
+ - TODO
+ - TODO
 
 ## License
 
