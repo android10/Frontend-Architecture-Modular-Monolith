@@ -72,8 +72,7 @@
 <script lang="ts">
 
 import { defineComponent } from "vue";
-import { useRegisterSW } from 'vite-plugin-pwa'
-// import { useRegisterSW } from 'virtual:pwa-register/vue'
+import { useRegisterSW } from 'virtual:pwa-register/vue'
 
 const { updateServiceWorker } = useRegisterSW();
 
@@ -89,8 +88,8 @@ export default defineComponent({
   },
   methods: {
     async close() {
-      this.offlineReady.value = false;
-      this.needRefresh.value = false;
+      this.offlineReady = false;
+      this.needRefresh = false;
     },
     async updateServiceWorker() {
       await updateServiceWorker();

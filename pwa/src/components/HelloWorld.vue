@@ -25,7 +25,3 @@ a {
   color: #42b983;
 }
 </style>
-
-<script lang="ts">
-import { defineComponent } from "vue";
-</script>
