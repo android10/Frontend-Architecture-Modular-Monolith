@@ -10,6 +10,6 @@
  - `pnpm install`
  - `pnpm run dev`
 
-## Deployment
+## Live example
 
- - ``
+ - `https://typescript-everywhere-pwa.netlify.app`
