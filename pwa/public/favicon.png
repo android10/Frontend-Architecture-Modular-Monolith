@@ -107,14 +107,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>vite-pwa-boilerplate/favicon.ico at main · rubenRP/vite-pwa-boilerplate</title>
+  <title>vite-pwa-boilerplate/favicon.png at main · rubenRP/vite-pwa-boilerplate</title>
     <meta name="description" content="Contribute to rubenRP/vite-pwa-boilerplate development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/fa60123af7cbb7685cc46863cdacc832a082d6ee96d4ceaea26478ddc3469393/rubenRP/vite-pwa-boilerplate" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="vite-pwa-boilerplate/favicon.ico at main · rubenRP/vite-pwa-boilerplate" /><meta name="twitter:description" content="Contribute to rubenRP/vite-pwa-boilerplate development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/fa60123af7cbb7685cc46863cdacc832a082d6ee96d4ceaea26478ddc3469393/rubenRP/vite-pwa-boilerplate" /><meta property="og:image:alt" content="Contribute to rubenRP/vite-pwa-boilerplate development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="vite-pwa-boilerplate/favicon.ico at main · rubenRP/vite-pwa-boilerplate" /><meta property="og:url" content="https://github.com/rubenRP/vite-pwa-boilerplate" /><meta property="og:description" content="Contribute to rubenRP/vite-pwa-boilerplate development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/fa60123af7cbb7685cc46863cdacc832a082d6ee96d4ceaea26478ddc3469393/rubenRP/vite-pwa-boilerplate" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="vite-pwa-boilerplate/favicon.png at main · rubenRP/vite-pwa-boilerplate" /><meta name="twitter:description" content="Contribute to rubenRP/vite-pwa-boilerplate development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/fa60123af7cbb7685cc46863cdacc832a082d6ee96d4ceaea26478ddc3469393/rubenRP/vite-pwa-boilerplate" /><meta property="og:image:alt" content="Contribute to rubenRP/vite-pwa-boilerplate development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="vite-pwa-boilerplate/favicon.png at main · rubenRP/vite-pwa-boilerplate" /><meta property="og:url" content="https://github.com/rubenRP/vite-pwa-boilerplate" /><meta property="og:description" content="Contribute to rubenRP/vite-pwa-boilerplate development by creating an account on GitHub." />
     
 
 
@@ -122,11 +122,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/1360604/ws?session=eyJ2IjoiVjMiLCJ1IjoxMzYwNjA0LCJzIjo3NDczMTM2MDMsImMiOjY0MTY5MzQ3MiwidCI6MTY0MzIxMDYxNX0=--adf6e2111238ada08fbbd36d2dbf183f6a9f920fba0871e3cf6adbf655d20260" data-refresh-url="/_alive" data-session-id="d2c247dc0c1324636166faa1244fb9383e46bbbf74be2ccc2625a726476f43c0">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/1360604/ws?session=eyJ2IjoiVjMiLCJ1IjoxMzYwNjA0LCJzIjo3NDczMTM2MDMsImMiOjM5NTk0ODc2NTksInQiOjE2NDMyMTA2NDN9--901ec97096f7d4cf4062f4b63e32979573646d52e728a5f5185aab56e6609e05" data-refresh-url="/_alive" data-session-id="d2c247dc0c1324636166faa1244fb9383e46bbbf74be2ccc2625a726476f43c0">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-5dbcf746.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="9DFC:0C08:9F53C3:AB0B8D:61F1676E" data-pjax-transient="true" /><meta name="html-safe-nonce" content="56bc8032c8241e40962eb5abd1e551717e3ad02a2692194de3912ff9d08f0991" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ydWJlblJQL3ZpdGUtcHdhLWJvaWxlcnBsYXRlL3RyZWUvbWFpbi9wdWJsaWMiLCJyZXF1ZXN0X2lkIjoiOURGQzowQzA4OjlGNTNDMzpBQjBCOEQ6NjFGMTY3NkUiLCJ2aXNpdG9yX2lkIjoiNDEyOTk2MTMzNzA5NzY1NDc1MCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="626fac501af9bd799f79b34c6b3dfcb453eb7da84e22186cb4ca52b2ad84a377" data-pjax-transient="true" />
+  <meta name="request-id" content="9DFC:0C08:9F6F3F:AB2890:61F16777" data-pjax-transient="true" /><meta name="html-safe-nonce" content="56bc8032c8241e40962eb5abd1e551717e3ad02a2692194de3912ff9d08f0991" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ydWJlblJQL3ZpdGUtcHdhLWJvaWxlcnBsYXRlL3RyZWUvbWFpbi9wdWJsaWMiLCJyZXF1ZXN0X2lkIjoiOURGQzowQzA4OjlGNkYzRjpBQjI4OTA6NjFGMTY3NzciLCJ2aXNpdG9yX2lkIjoiNDEyOTk2MTMzNzA5NzY1NDc1MCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="a5e64e7286d6c369010ca4f6d332530c1164a877a778a82d3fae9bc95408a09b" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:394618529" data-pjax-transient>
 
@@ -165,7 +165,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="ZGZhNzVmMmM3MDA4NmY0MDYwZGU1YmE4MWY3ZWVlMjNkZjQxOTQwM2EwYTYxOThlZWRiMTg1Y2M2ZjU3YjlmMnx7InJlbW90ZV9hZGRyZXNzIjoiODcuMTg4LjE1MS4xOTUiLCJyZXF1ZXN0X2lkIjoiOURGQzowQzA4OjlGNTNDMzpBQjBCOEQ6NjFGMTY3NkUiLCJ0aW1lc3RhbXAiOjE2NDMyMTA2MTUsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="NWE3MDIzMTZiOWQwZmFkMDE3OTU5OGI4MTBmZTg0MTA3YTA0M2U3YjNhYTAzNDJlMjgxNjg2MjRhNDlhNWU0N3x7InJlbW90ZV9hZGRyZXNzIjoiODcuMTg4LjE1MS4xOTUiLCJyZXF1ZXN0X2lkIjoiOURGQzowQzA4OjlGNkYzRjpBQjI4OTA6NjFGMTY3NzciLCJ0aW1lc3RhbXAiOjE2NDMyMTA2NDMsImhvc3QiOiJnaXRodWIuY29tIn0=">
       <meta name="keyboard-shortcuts-preference" content="all">
       <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
@@ -185,7 +185,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -226,7 +226,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="d3cc4de02abea3bcea6d870d9f8efe4f0fdc70db55a142c44e8c52e87749a753" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="ce138734ea4c588d06a82306af766e10c22efb01c6ca2962591207d7e461a400" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -270,7 +270,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="Ptb7zGAkS54Eqgb2jEr3zJfXrJeak-QqBnmt1_B1g_NEoIYYH0T8Bw1wORSUBt2wYdW32mWdmGuNoFe0noFXgA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="BrP45HjTxRfjLlUmCT4vJNX7Qb2qSheLH9dA8U-LX4N8xYUwB7Nyjur0asQRcgVYI_la8FVEa8qUDrqSIX-L8A" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -474,7 +474,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;android10&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="219b92de73fbb52b0299223c0273b2ac5d9133292ccb74f4e21bf66887057d78" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;android10&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="269e91c231693116e541644f306b7fd72b96d085cb1445c8a7362aad8a260650" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -483,12 +483,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/1360604?s=40&amp;v=4" width="20" height="20" alt="@android10" />
       android10
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WY6Rg5KJAelxNmfrAMMSEPZ7zYNZgZJzXLpDP67En6zafBNfTNgEJg4MB82jyjkbTAl2dyejBEdJie-nbfpaqg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ARiG3NvMeXB9h1JtmCL-vFoxrY6FQKQIFlpbbZfVWsSC6gQABZ18vwK9Mks7K9W34EMWevtiMjwDaff1VOufwg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="3df778e67751fcc460dd52e3621ee09528d0478c11ba0574d5502c52425b1a94" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="ac35f74c0442183cb1980a1b24bb4d3cb1dc7e0ad6b6861efc3928eb43b7f7bc" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -505,7 +505,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="d3cc4de02abea3bcea6d870d9f8efe4f0fdc70db55a142c44e8c52e87749a753" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="ce138734ea4c588d06a82306af766e10c22efb01c6ca2962591207d7e461a400" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -521,7 +521,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTM2MDYwNCIsInQiOjE2NDMyMTA2MTV9--cd8b4cde0f9abcd67d8206f7238d4fae0d52fddf19bfd0a4ab5cf47b1fa299b5">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTM2MDYwNCIsInQiOjE2NDMyMTA2NDN9--a9b98792ea44ab2bf1ce3752065bfaf6deb4395f39927cb55a9bf8cc964ba148">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -544,7 +544,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="be7fcead0a91a4a81d3c2a8b0e36e4aad57d05c567b56a8f8d7b31d1dfd8edf9" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="542c808352d0b0b7dc76695b19ae854f977737e507b688bb5ba1f26c8c651b33" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -582,7 +582,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="23f942ab553bed37edaf79c05390be6e0d59e87039294a3e4aacc3af22d72fbd" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="52cd4873499140ee9c0b75e9d43f9a8a9e04a252b7e8fda08cd843fcef9f13fa" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
   >
     <img src="https://avatars.githubusercontent.com/u/1360604?s=40&amp;v=4" alt="@android10" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -654,14 +654,14 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3"
-      data-return-to=/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico
+      data-return-to=/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png
       data-user-id="1360604"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
       >
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="KF_fTDlXX4cOKhBAZw0ZUdk8_JrhF27FqFwOyI9icuS2P0NFQJ6kriSRQy2B-yojexHv0UK8EYT2M8IFO0AgEQ" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="r786kPqUSdNNny5aoUGMPtX9_XInTjEZr3kLpJTLWM0x36aZg12y-mckfTdHt79Md9DuOYTlTljxFsdpIOkKOA" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1306,7 +1306,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:394618529,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="a49e13bda45c60ab729585fa0f311a8275f5c9d49c6f1914d57041e90a68a9b3" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:394618529,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="f78a79c704474727d47c24f314577067a802c7ec57eec082dabcbec70bffdc6a" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1358,7 +1358,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7TphZCcw3xLBnPbj998ipseCY8lOJH3INYCBXiKrdNztaCAv3U8R7gU4hO8xXV9b8DLx7aLedCYzrKBanYxiVA" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TQLTrr-ehYL2issCMR8OGMC0sBXPeqrAZ6bxU4pEr0FNUJLlReFLfjIuuQ73nXPl9wQiMSOAoy5hitBXNWO5yQ" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="394618529">
 
@@ -1476,7 +1476,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BJ6recwgd4jdB6UfJVeGEk5FkW_tEPVb8223Mzyb3w8EzOoyNl-5dBmj1xPj1fvvefUDSwHq_LX1QZY3g7zJhw" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ErGfPfYptIHtJyCD3gcbRDovrpkBu11mnSrcE01gi2IS4952DFZ6fSmDUo8YhWa5DZ88ve1BVIibBv0X8ked6g" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="394618529">
 
@@ -1623,7 +1623,7 @@
   <li>
             <div class="float-left">
         <details class="details-reset details-overlay details-overlay-dark " >
-                <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:394618529,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="89778bdaa87175ec7c31844bbea92a491bcc6d98910d499b0a80419704c53c24" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of rubenRP/vite-pwa-boilerplate to your account" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+                <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:394618529,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="39d7f24ffb249289d4dd1903abac0666cf5df913267c491d41a0e2d11071a82a" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of rubenRP/vite-pwa-boilerplate to your account" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
               <span id="repo-network-counter" data-pjax-replace="true" title="2" data-view-component="true" class="Counter">2</span>
@@ -1679,24 +1679,24 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" action="/rubenRP/vite-pwa-boilerplate/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TFRDNjkcjrF7Ez9gfwzgiogHAP5ZqdkNzjOlNVLk_z_2FdN2ZKd0NjagTE78E0gnmNoZEK6LWvOHNmz3SHTrJg" autocomplete="off" />
-        <input type="hidden" value="Y0tkpH-a6iapMP4P3h9dzQu1n_wGA0fQIBrXZHhb5jPZCvTkIiEQoeSDjSFdAPVgG2iGEvEhxC5pHx6mYsvyKg" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" action="/rubenRP/vite-pwa-boilerplate/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cMUX_Tcb15CJlvHgk7nS1DGfjmuiHePFwbDrw1M6fKXKhIe9aqAtF8Qlgs4Qpnp5IUKXhVU_YDuItSIBSapovA" autocomplete="off" />
+        <input type="hidden" value="rB8asTI4sWzgV9frDRuCMSPDb0jVn9mSUsapJKXwjp8WXorxb4NL663kpMWOBCqcMx52piK9Wmwbw2Dmv2Cahg" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:394618529,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="a428c3647210f0c1240f889040acb5d3e1dcf1d0223d437aab380645df45ae15" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:394618529,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="f4e7a7ca05b5517d6663c96857ed20340c036bba5b83ab05f44e2eba5aa0f22a" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="8 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="8" data-view-component="true" class="Counter js-social-count">8</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/rubenRP/vite-pwa-boilerplate/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="a_bPYVhq7TMoYoL3UTTfCiGTwmO-8p5c0W7DBNUc40MmiX509Zm2fSVgMUcdVdlrGT_k90ceTJQiB7SDMtxvPA" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/rubenRP/vite-pwa-boilerplate/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BWTeFFjorgFxi874XC8TLR9As-gky94Z4hhcp20rqeRIG28B9Rv1T3yJfUgQThVMJ-yVfN0nDNERcSsgiuslmw" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:394618529,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="407177b0056acb2161d5563b795136fc170e9f251d8bb75cf11ebac9f195e0a4" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:394618529,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="825196dcfd6848fdb62865eac161aa095fcae904b21b26bd492581c68f526b83" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
 </span>          <span id="repo-stars-counter-star" aria-label="8 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="8" data-view-component="true" class="Counter js-social-count">8</span>
 </button></form>
-      <details id="details-2c8f5e" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+      <details id="details-5f0a27" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
       <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
@@ -1704,7 +1704,7 @@
   <div class="Box-header">
     <h2 class="Box-title">Create list</h2>
   </div>
-  <form class="Box-body d-flex flex-column p-3 js-user-list-form" action="/stars/android10/lists" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mhKwUCzjPHe5o4XFPmEBZJWBDjYbvlAS9K8ICKGQPxpvW6DqtmhBxqG12eOlTtj933_uyUA53XEPWkhUd3bC5A" autocomplete="off" />
+  <form class="Box-body d-flex flex-column p-3 js-user-list-form" action="/stars/android10/lists" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zxxHyXL7B26_mP4KWZ6bqbqTVEhRWV3ni28mBX_Ig4k6VVdz6HB636eOoizCsUIw8G20twre0IRwmmZZqS5-dw" autocomplete="off" />
         <p class="color-fg-subtle mb-3">Create a list to organize your starred repositories.</p>
       <input type="hidden" name="repository_id" value="{{ repositoryId }}">
 
@@ -1724,7 +1724,7 @@
           required
         >
       </text-expander>
-      <input type="hidden" value="CyymwNs-cr1zlzvEcYnfWrTlZGO0FfiILnAX4zBkpp-KraGdRPBtG0PAh_c4tr1tWhbdvKZzGEG1Afk4LpAn-g" data-csrf="true" />
+      <input type="hidden" value="WBUMg_1KE1XcjVmLOlqTj0xeNOZsrY3AsWXhcfOQ7WLZlAveYoQM8-za5bhzZfG4oq2NOX7LbQkqFA-q7WRsBw" data-csrf="true" />
     </auto-check>
     <p
       class="note error position-relative js-user-list-error"
@@ -1788,13 +1788,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2c8f5e">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-5f0a27">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-2c8f5e"
+        id="filter-menu-5f0a27"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1997,7 +1997,7 @@
 
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/rubenRP/vite-pwa-boilerplate/blob/dd6903cebd52fa9dd4d3207787570efa506b3441/public/favicon.ico">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/rubenRP/vite-pwa-boilerplate/blob/dd6903cebd52fa9dd4d3207787570efa506b3441/public/favicon.png">Permalink</a>
 
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -2083,7 +2083,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/rubenRP/vite-pwa-boilerplate/blob/{{ urlEncodedRefName }}/public/favicon.ico" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/rubenRP/vite-pwa-boilerplate/blob/{{ urlEncodedRefName }}/public/favicon.png" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2123,7 +2123,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/rubenRP/vite-pwa-boilerplate/blob/{{ urlEncodedRefName }}/public/favicon.ico" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/rubenRP/vite-pwa-boilerplate/blob/{{ urlEncodedRefName }}/public/favicon.png" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2154,7 +2154,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/rubenRP/vite-pwa-boilerplate"><span>vite-pwa-boilerplate</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/rubenRP/vite-pwa-boilerplate/tree/main/public"><span>public</span></a></span><span class="separator">/</span><strong class="final-path">favicon.ico</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/rubenRP/vite-pwa-boilerplate"><span>vite-pwa-boilerplate</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/rubenRP/vite-pwa-boilerplate/tree/main/public"><span>public</span></a></span><span class="separator">/</span><strong class="final-path">favicon.png</strong>
       </h2>
       <a href="/rubenRP/vite-pwa-boilerplate/find/main"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -2170,7 +2170,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:394618529,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="85488eb053a1eb3b208f79fe0457b6609dbbfdb83eead35c0376389b7f269394" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/rubenRP/vite-pwa-boilerplate/find/main">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:394618529,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="d69cc0a3caf133646412f21bed10f7ba7276b783af813a79542fc80d160a4a60" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/rubenRP/vite-pwa-boilerplate/find/main">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>            </li>
@@ -2182,13 +2182,13 @@
 </button>            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="public/favicon.ico" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="public/favicon.png" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 Copy path
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/rubenRP/vite-pwa-boilerplate/blob/dd6903cebd52fa9dd4d3207787570efa506b3441/public/favicon.ico" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/rubenRP/vite-pwa-boilerplate/blob/dd6903cebd52fa9dd4d3207787570efa506b3441/public/favicon.png" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -2203,7 +2203,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/rubenRP/vite-pwa-boilerplate/contributors/main/public/favicon.ico" class="commit-loader">
+      <include-fragment src="/rubenRP/vite-pwa-boilerplate/contributors/main/public/favicon.png" class="commit-loader">
         <div class="Box-header d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2235,21 +2235,21 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-    4.19 KB
+    7.75 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a href="/rubenRP/vite-pwa-boilerplate/raw/main/public/favicon.ico" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download
+      <a href="/rubenRP/vite-pwa-boilerplate/raw/main/public/favicon.png" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">  Download
 </a>
     </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/rubenRP/vite-pwa-boilerplate?branch=main&amp;filepath=public%2Ffavicon.ico"
+             href="x-github-client://openRepo/https://github.com/rubenRP/vite-pwa-boilerplate?branch=main&amp;filepath=public%2Ffavicon.png"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -2257,7 +2257,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/rubenRP/vite-pwa-boilerplate/delete/main/public/favicon.ico" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="O0Ndq3iDQ8E0MOPLCDGJuVmP5MWeIm0i3ZyEg-ar6Q3iPU0JM5xLu1X0BIvw4CHJKNOGY47RqHs8KJP2dVLWhw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/rubenRP/vite-pwa-boilerplate/delete/main/public/favicon.png" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PSz2mfE7RwE7wLSwioO8gZHW9JRBLgcT51B2C5LX1_2u_npQLIbS5vDAWI7gOaQcUtiG9vVGZCPN6xHfHZgEJQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2279,13 +2279,13 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/rubenRP/vite-pwa-boilerplate?branch=main&amp;filepath=public%2Ffavicon.ico"
+                   href="x-github-client://openRepo/https://github.com/rubenRP/vite-pwa-boilerplate?branch=main&amp;filepath=public%2Ffavicon.png"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/rubenRP/vite-pwa-boilerplate/raw/main/public/favicon.ico">
+            <a class="dropdown-item" href="/rubenRP/vite-pwa-boilerplate/raw/main/public/favicon.png">
               Download
             </a>
           </li>
@@ -2300,7 +2300,7 @@
   <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
 
       <div class="text-center p-3">
-          <a href="/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico?raw=true">View raw</a>
+          <span class="border-wrap"><img src="/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png?raw=true" alt="favicon.png"></span>
       </div>
   </div>
 
@@ -2348,16 +2348,16 @@
       </li>
     </ul>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-8 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="4882edba7e1355e7a2589a163ff041181f15231fbd19e2c3ad2bb9e0215464e0" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="222d914eaa65ffa1ab476bd4c0b5413c64b6dd2a17dc3816de961510b6e02507" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="b470be36a747a9b9ebef60148356679beb7a8a9921e073fda534ea7a46920f62" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="1e39073b1d82a3ff9562fc7682243459c08d59e427848f551aea03815e0a068e" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="bb0a23c5ad9affac9f4abbd3adef7acb9771def2aff0390783a8f7ccc6905f6d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="1261d767aebc4381d1e727484acf2f7f7646f38e67cf981d54550f86aa00634d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="10039026e59b8795ebc77570d2a1809de4cbca7c723a2880b0bfb8e5126a869b" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="55e019434b3a2ab9336108a4b9df31b0ce028c93443388e3ee92f5772ba1899a" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="a2bf081be7deccb81580eba12f46f8ec1594cb20772cef03b66334e5272d6014" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="a76bceec5433876743b7304dbb8b12b7413c910b3ed3c6ecd9c1c0819b87a17d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="5812baca8730d46b0cb155a6640dd714ad33e29c39ad922ccdc5b72ea924d7db" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="7f4786cd79402e5520ae28b372c78e2b6e4868610022f28f85a5d7beed8c327f" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.ico&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="185095aaa506ca02d0ce1c23b4d90da84638ee712a29316e6a51b2221188d3c5" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="a21b5f287388f567ccec6f8bf3fb412b10059fe69e0d9e9549791cfafcf7a0d9" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="f671488ef70a4a4ff98bd2f5bf8c883260e6dc3aba69428d89fcb275fe632f32" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="b46357e982b193b9c183c157f8aa2eb926bd725c618b3d3887619ece0ac379d6" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="f899e2f46cf07845718e4923b0c292f98d6c9714f539e879a93227d57896390f" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/rubenRP/vite-pwa-boilerplate/blob/main/public/favicon.png&quot;,&quot;user_id&quot;:1360604}}" data-hydro-click-hmac="c6a9cdc34cf72a893df74b0b95a45485df8cc8a9a0d4cee0935ae0b23a1227f7" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
