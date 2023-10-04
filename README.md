@@ -80,6 +80,7 @@ pnpm lint
  - https://vitejs.dev/guide/ 
  - https://vitest.dev/guide/ 
  - https://vuejs.org/guide/
+ - https://vuejs.org/guide/typescript/overview.html
  - https://github.com/vuejs/language-tools 
  - https://pinia.vuejs.org/
  - https://github.com/vuejs/awesome-vue

@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
 import AppHeader from '@/main/core/home/components/AppHeader.vue'
+import AppFooter from '@/main/core/home/components/AppFooter.vue'
 </script>
 
 <template>
@@ -8,8 +9,7 @@ import AppHeader from '@/main/core/home/components/AppHeader.vue'
     <img alt="App logo" class="logo" src="/img/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <AppHeader msg="You did it!" />
-
+      <AppHeader />
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
@@ -18,6 +18,10 @@ import AppHeader from '@/main/core/home/components/AppHeader.vue'
   </header>
 
   <RouterView />
+
+  <footer>
+      <AppFooter />
+  </footer>
 </template>
 
 <style scoped>
