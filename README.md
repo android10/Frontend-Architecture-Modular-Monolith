@@ -1,8 +1,8 @@
-## Rust Cross Platform Development: Wev Sample with Vue.js
+## Frontend Web Architecture: A Modular Monolith Approach
 
 In order to **get started,** please refer to the the following **article/post** I have written:
 
-- [Rust cross-platform... The Web (Vue.js) part...](https://fernandocejas.com/blog/engineering/2023-10-31-rust-cross-platform-web/).
+- [Frontend Web Architecture: A Modular Monolith Approach](https://fernandocejas.com/blog/engineering/2023-10-31-rust-cross-platform-web/).
 
 ## The Idea
 
@@ -21,6 +21,12 @@ And here the **implemantion details:**
 </p> -->
 
 TODO
+
+## Software Stack
+
+ - [Vue.js](https://vuejs.org/).
+ - [pnpm](https://pnpm.io/).
+ - TODO 
 
 ## Recommended `nodejs` version
 
@@ -41,7 +47,7 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
     2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
 2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
 
-## Customize configuration
+## Customize configuration 
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
@@ -55,7 +61,7 @@ pnpm build     # Type-Check, Compile and Minify for Production
 
 ## Testing and Code quality
 
-It includes, Static Analisys, Lint and Unit, Integration and Functions tests.
+It includes, Static Analisys, Lint and Unit and Integration tests.
 
 ### Run Tests with [Vitest](https://vitest.dev/)
 
