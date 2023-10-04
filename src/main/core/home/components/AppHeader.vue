@@ -1,10 +1,13 @@
 <script setup lang="ts">
+const title = 'Header Title'
+const description = 'This is a description of what the app should do'
 </script>
 
 <template>
   <div class="description">
     <h3>
-      This is the header
+      <p>Title: {{ title }}</p>
+      <p>Desciption: {{ description }}</p>
     </h3>
   </div>
 </template>

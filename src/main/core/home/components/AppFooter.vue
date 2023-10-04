@@ -1,10 +1,11 @@
 <script setup lang="ts">
+const content = 'This is the footer'
 </script>
 
 <template>
   <div class="footer">
     <h3>
-      This is a footer
+      <p>{{ content }}</p>
     </h3>
   </div>
 </template>
