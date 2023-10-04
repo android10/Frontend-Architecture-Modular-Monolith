@@ -1,1 +1,11 @@
-// An exported list of Features should be here
+class CoreFeature implements Feature {
+    readonly name = 'core'    
+}
+
+/** List of enabled features **/
+const allFeatures = [
+    new CoreFeature(),
+    new MoviesFeature(),
+    new ProfileFeature(),
+    new AboutFeature(),
+];

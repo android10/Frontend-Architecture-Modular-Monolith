@@ -1,5 +1,11 @@
 <script setup lang="ts">
+import { onMounted } from 'vue';
+
 const content = 'This is the footer'
+
+onMounted(
+  () => {}
+)
 </script>
 
 <template>
